@@ -32,4 +32,4 @@ npm run dev
 
 ## <a name="links">🔗 Links</a>
 
-Live: https://traveluiux.netlify.app/
+Live: https://ziaddportfolio.netlify.app/
