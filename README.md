@@ -1,4 +1,4 @@
-<img src="/public/mywork/portfolio.png"alt="Project Banner">
+<img src="/portfolio.png">
 
 ## 📋 <a name="table">Table of Contents</a>
 
