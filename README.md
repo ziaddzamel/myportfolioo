@@ -1,4 +1,4 @@
-<img src="/portfolio.png">
+<img src="/portfolio.jpg">
 
 ## 📋 <a name="table">Table of Contents</a>
 
